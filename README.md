@@ -6,7 +6,7 @@ This is official CenturyByte website project
 
 ## Description
 
-CenturyByteft is a software engineering company that pride itself with it's expertise in software engineering and system security, it was founded by a team of experts globally to offer her services to startups and large bussiness.
+CenturyByte is a software engineering company that pride itself with it's expertise in software engineering and system security, it was founded by a team of experts globally to offer her services to startups and large bussiness.
 
 CenturyByte |
  | :---: 
