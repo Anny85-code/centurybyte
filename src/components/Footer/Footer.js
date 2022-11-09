@@ -54,7 +54,7 @@ const Footer = () => {
         p className = { styles.text } >
         Km 7 Abak road, Uyo, Akwa Ibom state <
         /p> <
-        p className = { styles.text } > prosoftlimited @gmail.com < /p> <
+        p className = { styles.text } > centurybytelimited@gmail.com< /p> <
         p className = { styles.text } > (234) 80 - 32668874 < /p> <
         /div>
 
@@ -65,7 +65,7 @@ const Footer = () => {
         p className = { styles.text } >
         54 Mojsija Zecevica, Berane, Montenegro <
         /p> <
-        p className = { styles.text } > prosoftlimited @gmail.com < /p> <
+        p className = { styles.text } > centurybytelimited@gmail.com < /p> <
         p className = { styles.text } > (671) 555 - 0110 < /p> <
         /div>
 

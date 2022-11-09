@@ -15,9 +15,7 @@ const AboutUsHome = () =>{
                         <div data-aos="zoom-in">
                             <p className={styles.content}>CenturyByte is a world-class team working globally. Our clients are business owners looking to create new products or improve existing software solutions. CenturyByte places people at the heart of everything it does and is committed to making the most of digital technology to build a positive future for its clients. </p>
                         </div>
-                        <div data-aos='zoom-in' style={{textAlign: 'left'}}>
-                            <button className={`btn custom_btn ${styles.btn}`}> MEET OUR TEAM</button>
-                        </div>
+                       
                         
                     </div>
 

@@ -59,7 +59,7 @@ const ContactUsForm = () => {
             <p className={styles.head}>Contact</p>
             <p className={styles.content}>Mobile : +234-80-32668874</p>
             <p className={styles.content}>Phone : +00 123 678 90</p>
-            <p className={styles.content}>Email: prosoftlimited@gmail.com</p>
+            <p className={styles.content}>Email: centurybytelimited@gmail.com</p>
           </div>
 
           <div className="col-md-4" data-aos="fade-left" data-aos-offset="70">
