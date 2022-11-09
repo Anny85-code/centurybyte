@@ -1,6 +1,6 @@
 # CenturyByte Limited
 
-## Live preview from [vercel](https://centurybite.vercel.app/
+## Live preview from [vercel](https://centurybite.vercel.app/)
 
 This is official CenturyByte website project
 
@@ -23,7 +23,7 @@ CenturyByte |
 To get the content of this project locally you need to run this command in your terminal:
 
 - git clone your https://github.com/VuDej/company-web.git
-- cd prosoft
+- cd company-web
 - npm install
 - npm start
 
