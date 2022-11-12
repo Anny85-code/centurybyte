@@ -52,7 +52,7 @@ const Footer = () => {
               <p className={styles.text}> Mon - Sat: 8: 00 - 17: 00 </p>{' '}
               <p className={styles.text}> Sun: Closed </p>{' '}
             </div>{' '}
-          </div>{' '}
+          </div>
         </div>{' '}
       </div>
       <div
