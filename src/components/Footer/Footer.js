@@ -26,7 +26,13 @@ const Footer = () => {
               <p className={styles.text}> Quick service delivery! </p>{' '}
               <p className={styles.text}> Affordable prices! </p>{' '}
               <div className={styles.social_logo}>
-                <img src={fb} alt="fb" className={styles.img} />
+                <a
+                  href="https://web.facebook.com/profile.php?id=100087425060863"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img src={fb} alt="fb" className={styles.img} />
+                </a>
                 <img src={linkdin} alt="in" className={styles.img} />
                 <img src={insta} alt="insta" className={styles.img} />
               </div>
