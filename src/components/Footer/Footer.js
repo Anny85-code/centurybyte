@@ -33,8 +33,10 @@ const Footer = () => {
                 >
                   <img src={fb} alt="fb" className={styles.img} />
                 </a>
-                <img src={linkdin} alt="in" className={styles.img} />
-                <img src={insta} alt="insta" className={styles.img} />
+                <a href="https://www.linkedin.com/company/centurybyte-limited/?viewAsMember=true" rel="noopener noreferrer" target="_blank">
+                <img src={linkdin} alt="in" className={styles.img} /></a>
+                <a href="https://www.instagram.com/centurybytelimited/" rel="noopener noreferrer" target="_blank">
+                <img src={insta} alt="insta" className={styles.img} /></a>
               </div>
             </div>
             <div className={`col-lg-3 col-sm-6 ${styles.contain}`}>
