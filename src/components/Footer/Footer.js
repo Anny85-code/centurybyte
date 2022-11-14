@@ -12,11 +12,11 @@ const Footer = () => {
         style={{
           backgroundColor: '#2b2b2b',
           paddingTop: '89px',
-          paddingBottom: '90px'
+          paddingBottom: '90px',
         }}
       >
-        <div className='container'>
-          <div className='row'>
+        <div className="container">
+          <div className="row">
             <div className={`col-lg-3 col-sm-6 ${styles.contain}`}>
               <p className={styles.logo}> CenturyByte </p>{' '}
               <p className={styles.text}>
@@ -25,7 +25,19 @@ const Footer = () => {
               </p>{' '}
               <p className={styles.text}> Quick service delivery! </p>{' '}
               <p className={styles.text}> Affordable prices! </p>{' '}
-             
+              <div className={styles.social_logo}>
+                <a
+                  href="https://web.facebook.com/profile.php?id=100087425060863"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img src={fb} alt="fb" className={styles.img} />
+                </a>
+                <a href="https://www.linkedin.com/company/centurybyte-limited/?viewAsMember=true" rel="noopener noreferrer" target="_blank">
+                <img src={linkdin} alt="in" className={styles.img} /></a>
+                <a href="https://www.instagram.com/centurybytelimited/" rel="noopener noreferrer" target="_blank">
+                <img src={insta} alt="insta" className={styles.img} /></a>
+              </div>
             </div>
             <div className={`col-lg-3 col-sm-6 ${styles.contain}`}>
               <p className={styles.head}> Services </p>{' '}
@@ -48,18 +60,17 @@ const Footer = () => {
               <p className={styles.text}> Mon - Sat: 8: 00 - 17: 00 </p>{' '}
               <p className={styles.text}> Sun: Closed </p>{' '}
             </div>{' '}
-          </div>{' '}
+          </div>
         </div>{' '}
       </div>
       <div
         style={{ backgroundColor: '#2b2b2b', borderTop: 'solid 1px #707070' }}
       >
         <p className={styles.bottom}>
-          Copyright© {Foter()}
-          All right reserved{' '}
+          Copyright© {Foter()} &nbsp; All right reserved{' '}
         </p>{' '}
       </div>{' '}
     </>
-  )
+  );
 }
 export default Footer

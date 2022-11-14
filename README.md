@@ -1,17 +1,17 @@
 # CenturyByte Limited
 
-## Live preview from [Netlify](https://space-travellers-farid-anny.netlify.app/)
-
+## Live preview from [vercel](https://centurybite.vercel.app/)
 
 This is official CenturyByte website project
 
 ## Description
 
-PCenturyByteft is a software engineering company that pride itself with it's expertise in software engineering and system security, it was founded by a team of experts globally to offer her services to startups and large bussiness.
+CenturyByte is a software engineering company that pride itself with it's expertise in software engineering and system security, it was founded by a team of experts globally to offer her services to startups and large bussiness.
 
 CenturyByte |
  | :---: 
-![screencapture-localhost-3000-2022-11-08-19_24_31](https://user-images.githubusercontent.com/87186552/200645718-8aa6ecbf-f1ef-4571-8d62-8f1731f100d7.png)
+![screencapture-centurybite-vercel-app-2022-11-09-12_52_53](https://user-images.githubusercontent.com/87186552/200826739-3764a7e9-c3c1-4cfa-9361-d3847e42f8e9.png)
+
 
 
 ## Built With
@@ -22,8 +22,8 @@ CenturyByte |
 
 To get the content of this project locally you need to run this command in your terminal:
 
-- git clone your https://github.com/Anny85-code/prosoft.git
-- cd prosoft
+- git clone your https://github.com/VuDej/company-web.git
+- cd company-web
 - npm install
 - npm start
 
@@ -31,7 +31,7 @@ To get the content of this project locally you need to run this command in your 
 
 This project is deployed on a github page on the link below:
 
-- https://anny85-code.github.io/prosoft/
+- https://VuDej.github.io/company-web/
 
 ## Authors
 
