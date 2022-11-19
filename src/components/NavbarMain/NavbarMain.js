@@ -134,7 +134,7 @@ const NavbarMain = () => {
                 </NavDropdown.Item>{' '}
                 <NavDropdown.Item className={styles.dropdownItem}>
                   <NavLink
-                    to="/hello"
+                    to="/cloud"
                     onClick={() => {
                       handleActiveNav(2);
                       closeNav();
@@ -146,7 +146,7 @@ const NavbarMain = () => {
                 </NavDropdown.Item>{' '}
                 <NavDropdown.Item className={styles.dropdownItem}>
                   <NavLink
-                    to="/hello"
+                    to="/it"
                     onClick={() => {
                       handleActiveNav(2);
                       closeNav();
@@ -158,7 +158,7 @@ const NavbarMain = () => {
                 </NavDropdown.Item>{' '}
                 <NavDropdown.Item className={styles.dropdownItem}>
                   <NavLink
-                    to="/hello"
+                    to="/ai"
                     onClick={() => {
                       handleActiveNav(2);
                       closeNav();
