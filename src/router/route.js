@@ -7,6 +7,7 @@ import ProjectDetails from "../views/projectDetails";
 import SMediaService from '../views/sMediaService';
 import QualityAssurance from '../views/sQualityAssurance';
 import Cloud from '../views/sCloud';
+import IT from '../views/IT';
 
 const routes = [
     {
@@ -44,6 +45,10 @@ const routes = [
     {
         components: <Cloud />,
         to: '/cloud'
+    },
+    {
+        components: <IT />,
+        to: '/it'
     }
 ];
 
