@@ -158,7 +158,7 @@ const NavbarMain = () => {
                 </NavDropdown.Item>{' '}
                 <NavDropdown.Item className={styles.dropdownItem}>
                   <NavLink
-                    to="/hello"
+                    to="/ai"
                     onClick={() => {
                       handleActiveNav(2);
                       closeNav();
