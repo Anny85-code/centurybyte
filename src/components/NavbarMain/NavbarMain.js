@@ -134,7 +134,7 @@ const NavbarMain = () => {
                 </NavDropdown.Item>{' '}
                 <NavDropdown.Item className={styles.dropdownItem}>
                   <NavLink
-                    to="/hello"
+                    to="/cloud"
                     onClick={() => {
                       handleActiveNav(2);
                       closeNav();

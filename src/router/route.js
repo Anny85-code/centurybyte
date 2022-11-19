@@ -6,6 +6,7 @@ import AboutUs from '../views/aboutUs';
 import ProjectDetails from "../views/projectDetails";
 import SMediaService from '../views/sMediaService';
 import QualityAssurance from '../views/sQualityAssurance';
+import Cloud from '../views/sCloud';
 
 const routes = [
     {
@@ -39,6 +40,10 @@ const routes = [
     {
         components: <QualityAssurance />,
         to: '/qualityAssurance'
+    },
+    {
+        components: <Cloud />,
+        to: '/cloud'
     }
 ];
 
