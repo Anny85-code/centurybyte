@@ -4,7 +4,7 @@ import img1 from '../../assets/sCloud/cloud1.jfif';
 import img2 from '../../assets/sCloud/cloud3.jfif';
 import img3 from '../../assets/sCloud/cloud2.jfif';
 
-const QualityAssurance = () => {
+const Cloud = () => {
   return (
     <>
       <div>
@@ -40,7 +40,7 @@ const QualityAssurance = () => {
             className={`row ${styles.contain} flex-column-reverse flex-md-row`}
           >
             <div className={`col-md-6 ${styles.middleContain}`}>
-              <p className={styles.heading}> Quality assurance</p>
+              <p className={styles.heading}>IoT</p>
               <p className={styles.text}>
                 The easy way to put is that a Cloud-based solution takes
                 advantage of the internet to deliver its products and services.
@@ -79,4 +79,4 @@ const QualityAssurance = () => {
     </>
   );
 };
-export default QualityAssurance;
+export default Cloud;

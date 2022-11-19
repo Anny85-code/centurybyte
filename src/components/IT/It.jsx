@@ -1,10 +1,10 @@
 import React from 'react';
 import styles from './It.module.css';
-import img1 from '../../assets/IT/it1.jfif';
+import img1 from '../../assets/IT/it4.jpg';
 import img2 from '../../assets/IT/it3.png';
 import img3 from '../../assets/IT/it2.jfif';
 
-const QualityAssurance = () => {
+const IT = () => {
   return (
     <>
       <div>
@@ -13,9 +13,9 @@ const QualityAssurance = () => {
           <div className="col-md-6 px-0">
             <div className={styles.topContain}>
               <p className={`${styles.headTop}`}>
-                <span style={{ color: '#ff4c0a' }}>Quality</span>
+                <span style={{ color: '#ff4c0a' }}>IT</span>
               </p>
-              <p className={styles.headTop}>IT</p>
+              <p className={styles.headTop}></p>
               <p className={styles.identityTop}>Consultancy</p>
               <p className={styles.content}>
                 A career in information technology can provide opportunities to
@@ -41,7 +41,7 @@ const QualityAssurance = () => {
             className={`row ${styles.contain} flex-column-reverse flex-md-row`}
           >
             <div className={`col-md-6 ${styles.middleContain}`}>
-              <p className={styles.heading}> Quality assurance</p>
+              <p className={styles.heading}> IT Consultant</p>
               <p className={styles.text}>
                 A career in information technology can provide opportunities to
                 collaborate with people frequently and offer advice about
@@ -75,4 +75,4 @@ const QualityAssurance = () => {
     </>
   );
 };
-export default QualityAssurance;
+export default IT;
