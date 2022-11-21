@@ -7,7 +7,7 @@ const Banner = () => {
     <>
         <div className={styles.imgbox}>
             <div>
-                <p data-aos='fade-down' className={styles.text}>We Provide software solutions for startups and large businesses</p>
+                <p data-aos='fade-down' className={styles.text}>We provide software solutions for startups and large businesses</p>
               
             </div>
             
