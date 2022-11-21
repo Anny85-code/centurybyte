@@ -1,11 +1,11 @@
-import React from 'react'
-import styles from './Footer.module.css'
-import fb from '../../assets/home/facebook.png'
-import linkdin from '../../assets/home/linkdin.png'
-import insta from '../../assets/home/insta.png'
+import React from 'react';
+import styles from './Footer.module.css';
+import fb from '../../assets/home/facebook.png';
+import linkdin from '../../assets/home/linkdin.png';
+import insta from '../../assets/home/insta.png';
 
 const Footer = () => {
-  const Foter = () => new Date().getFullYear()
+  const Foter = () => new Date().getFullYear();
   return (
     <>
       <div
@@ -33,13 +33,23 @@ const Footer = () => {
                 >
                   <img src={fb} alt="fb" className={styles.img} />
                 </a>
-                <a href="https://www.linkedin.com/company/centurybyte-limited/?viewAsMember=true" rel="noopener noreferrer" target="_blank">
-                <img src={linkdin} alt="in" className={styles.img} /></a>
-                <a href="https://www.instagram.com/centurybytelimited/" rel="noopener noreferrer" target="_blank">
-                <img src={insta} alt="insta" className={styles.img} /></a>
+                <a
+                  href="https://www.linkedin.com/company/centurybyte-limited/?viewAsMember=true"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img src={linkdin} alt="in" className={styles.img} />
+                </a>
+                <a
+                  href="https://www.instagram.com/centurybytelimited/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img src={insta} alt="insta" className={styles.img} />
+                </a>
               </div>
             </div>
-            <div className={`col-lg-3 col-sm-6 ${styles.contain}`}>
+            <div className={`col-lg-3 col-sm-6  ${styles.contain}`}>
               <p className={styles.head}> Services </p>{' '}
               <p className={styles.text}>
                 Km 7 Abak road, Uyo, Akwa Ibom state{' '}
@@ -72,5 +82,5 @@ const Footer = () => {
       </div>{' '}
     </>
   );
-}
-export default Footer
+};
+export default Footer;
