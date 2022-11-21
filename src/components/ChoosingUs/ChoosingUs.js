@@ -25,7 +25,7 @@ const ChoosingUs = () =>{
 
                     <div data-aos='fade-left' className="col-md-4">
                         <img src={comfort} alt="experience"/>
-                        <p className={styles.logo_head}>Comfortable</p>
+                        <p className={styles.logo_head}>Comfortability</p>
                         <p className={styles.logo_text}>We help companies reduce customer effort, enable contact center employees, and continously optimize business outcomes through digital CX transformation to improve CSAT and lower total cost to serve.</p>
                     </div>
                 </div>
