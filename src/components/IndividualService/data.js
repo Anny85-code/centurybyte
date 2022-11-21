@@ -78,7 +78,7 @@ const data = [{
     {
         id: 5,
         heading: 'Web Maintenance Service',
-        content: 'Our teams maintains and manage websites after creating a presentation. This implies that the site is accessible and that it functions smoothly that the content is current and the site itself is further developed to keep the old and bring new ones.',
+        content: 'Our teams maintains and manage websites. This implies that the site is accessible and that it functions smoothly that the content is current and the site itself is further developed to keep the old and bring new ones.',
         contents: [{
                 heading: 'Get The Maximum Benefits',
                 img: webmain,
@@ -174,7 +174,7 @@ const data = [{
     {
         id: 11,
         heading: 'Web Maintenance Service',
-        content: 'Our teams maintains and manage websites after creating a presentation. This implies that the site is accessible and that it functions smoothly that the content is current and the site itself is further developed to keep the old and bring new ones.',
+        content: 'Our teams maintains and manage websites. This implies that the site is accessible and that it functions smoothly that the content is current and the site itself is further developed to keep the old and bring new ones.',
         contents: [{
                 heading: 'Get The Maximum Benefits',
                 img: webmain,

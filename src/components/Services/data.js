@@ -105,7 +105,7 @@ const data = [
     id: 5,
     heading: 'Web Maintenance Service',
     content:
-      'Our teams maintains and manage websites after creating a presentation. This implies that the site is accessible and that it functions smoothly that the content is current.',
+      'Our teams maintains and manage websites. This implies that the site is accessible and that it functions smoothly that the content is current.',
     to: '/',
     icon: web,
     contents: [
@@ -237,7 +237,7 @@ const data = [
     id: 11,
     heading: 'Web Maintenance Service',
     content:
-      'Our teams maintains and manage websites after creating a presentation. This implies that the site is accessible and that it functions smoothly that the content is current.',
+      'Our teams maintains and manage websites. This implies that the site is accessible and that it functions smoothly that the content is current.',
     to: '/',
     icon: seo,
     contents: [

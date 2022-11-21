@@ -26,7 +26,7 @@ const data = [
     {
         id: 4,
         heading: 'E-Commerce System',
-        content: 'Draw in high-converting leads with responsive web designs. Our team has extensive experience in Wordpress, Shopify, Magneto, Drupal and various langages.',
+        content: 'Draw in high-converting leads with responsive web designs. Our team has extensive experience in various langages.',
         to: '/',
         icon: seo,
     },
@@ -40,7 +40,7 @@ const data = [
     {
         id: 6,
         heading: 'UI/UX Design',
-        content: 'Our team offers designs SaaS apps for web and mobile platforms, establishing visual, technical and emotional consistency in each interaction, whether on mobile or desktop.',
+        content: 'Our team offers designs SaaS apps for web and mobile platforms, establishing visual, technical and emotional consistency in each interaction on all devices.',
         to: '/',
         icon: seo,
     },
