@@ -130,7 +130,7 @@ const ContactUsForm = () => {
                 className={`${styles.input} ${styles.msg}`}
                 type="text"
               />
-              <div style={{ textAlign: 'right' }}>
+              <div  className={styles.btn_contact}>
                 <button
                   type="submit"
                   className={`btn custom_btn ${styles.btn}`}
