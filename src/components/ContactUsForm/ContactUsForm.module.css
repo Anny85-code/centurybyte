@@ -65,8 +65,13 @@
 }
 
 .btn_contact {
-    text-align: right;
+  text-align: right;
 }
+
+#greetings {
+  margin: 50px 0 0 90px;
+}
+
 @media screen and (max-width: 1200px) {
   .heading {
     font-size: 30px;
@@ -112,5 +117,9 @@
 
   .btn_contact {
     text-align: center;
-}
+  }
+
+  #greetings {
+    margin: 50px 0 0 90px;
+  }
 }

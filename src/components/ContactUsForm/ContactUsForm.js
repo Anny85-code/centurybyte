@@ -138,7 +138,7 @@ const ContactUsForm = () => {
                   SEND
                 </button>
               </div>
-              <span style={{ color: 'green', fontFamily: 'Gumela' }}>
+              <span style={{ color: 'green', fontFamily: 'Gumela' }} id={styles.greetings}>
                 {done && 'Thanks for Contacting us'}
               </span>
             </div>
