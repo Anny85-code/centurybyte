@@ -130,7 +130,7 @@ const ContactUsForm = () => {
                 className={`${styles.input} ${styles.msg}`}
                 type="text"
               />
-              <div style={{ textAlign: 'right' }}>
+              <div  className={styles.btn_contact}>
                 <button
                   type="submit"
                   className={`btn custom_btn ${styles.btn}`}
@@ -138,7 +138,7 @@ const ContactUsForm = () => {
                   SEND
                 </button>
               </div>
-              <span style={{ color: 'green', fontFamily: 'Gumela' }}>
+              <span style={{ color: 'green', fontFamily: 'Gumela' }} id={styles.greetings}>
                 {done && 'Thanks for Contacting us'}
               </span>
             </div>
